@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-yts-movie/static/css/main.43caa83d.css",
+    "main.js": "/react-yts-movie/static/js/main.a10e3b75.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-yts-movie/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-yts-movie/index.html",
+    "main.43caa83d.css.map": "/react-yts-movie/static/css/main.43caa83d.css.map",
+    "main.a10e3b75.js.map": "/react-yts-movie/static/js/main.a10e3b75.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-yts-movie/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43caa83d.css",
+    "static/js/main.a10e3b75.js"
+  ]
+}
